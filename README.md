@@ -3,8 +3,8 @@ An interactive web App for maintaining monthly budget
 
 ### Features of the App
 
-1. You can add entry for
-   (a) Expenditure
+1. You can add entry for<br>
+   (a) Expenditure<br>
    (b) Salary
    
 2. It will provide you the relative percentage of the different entries.
