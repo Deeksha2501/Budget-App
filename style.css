@@ -277,3 +277,72 @@ h2 {
 .unpaid .item__percentage { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .unpaid:hover .item__description { font-weight: 900; }
 
+@media only screen and (max-width: 800px), only screen and (max-device-width: 480px){
+    body{
+        font-size: 23px;
+    }
+    div.top{
+        height: 20vh;
+    }
+    body{
+        width: 103%;
+    }
+    div.budget__income{
+        width: 50%;
+    }
+    div.budget__income--text{
+        font-size: 21px;
+        font-weight: 800;
+    }
+    div.budget__income--value{
+        font-size: 20px;
+        padding-top: 5px;
+    }
+    div.budget__expenses{
+        width: 50%;
+    }
+    div.budget__expenses--text{
+        font-size: 21px;
+        font-weight: 800;
+    }
+    div.budget__expenses--value{
+        font-size: 20px;
+        padding-top: 5px;
+    }
+    div.budget__expenses--percentage{
+        margin-top: 7px;
+        font-size: 14px;
+    }
+    div.budget{
+        width: 100%;
+        text-align: -webkit-center;
+    }
+    div.budget__title{
+        font-size: 39px;
+    }
+    div.container{
+        text-align: -webkit-center;
+        display: grid;
+    }
+    div.income{
+        margin : 0 auto;
+        width: 650px;
+        margin-bottom: 50px;
+    }
+    div.item__delete{
+        margin-top: 4px;
+    }
+    div.item__percentage{
+        margin-top: 5px;
+    }
+    div.expenses{
+        margin: 0 auto;
+        width: 650px;
+    }
+    h2.icome__title{
+        font-size: 35px;
+    }
+    h2.expenses__title{
+        font-size: 35px;
+    }
+}
