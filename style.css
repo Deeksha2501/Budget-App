@@ -279,10 +279,10 @@ h2 {
 
 @media only screen and (max-width: 800px), only screen and (max-device-width: 480px){
     body{
-        font-size: 23px;
+        font-size: 25px;
     }
     div.top{
-        height: 20vh;
+        height: 30vh;
     }
     body{
         width: 103%;
@@ -318,7 +318,7 @@ h2 {
         text-align: -webkit-center;
     }
     div.budget__title{
-        font-size: 39px;
+        font-size: 41px;
     }
     div.container{
         text-align: -webkit-center;
