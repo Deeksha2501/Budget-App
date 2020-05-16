@@ -1,5 +1,6 @@
 # Budget-App
-An interactive web App for maintaining monthly budget 
+An interactive web App for maintaining monthly budget. <br>
+[Manage your money at one place](https://deeksha2501.github.io/Budget-App/)
 
 ### Features of the App
 
