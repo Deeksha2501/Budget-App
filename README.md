@@ -2,11 +2,13 @@
 An interactive web App for maintaining monthly budget. <br>
 [Manage your money at one place](https://deeksha2501.github.io/Budget-App/)
 
+[![HitCount](http://hits.dwyl.com/Deeksha2501/Budget-App.svg)](http://hits.dwyl.com/Deeksha2501/Budget-App)
+
 ### Features of the App
 
 1. You can add entry for<br>
-   (a) Expenditure<br>
-   (b) Salary
+>  -  Expenditure
+>  -  Salary
    
 2. It will provide you the relative percentage of the different entries.
 
